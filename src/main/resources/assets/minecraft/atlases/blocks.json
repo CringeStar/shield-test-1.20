@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "examplemod:entity/netherite_banner_shield_base"
+    },
+    {
+      "type": "single",
+      "resource": "examplemod:entity/netherite_banner_shield_base_nopattern"
+    }
+  ]
+}
